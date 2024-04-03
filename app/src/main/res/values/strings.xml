@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PosyanduCare</string>
+    <string name="intro">Lets calculate our childs height to measure whether their height is tall, normal, or short (stunting)! The calculation results refer to the standards set by the World Health Organization (WHO).</string>
+    <string name="tb_anak">Childs height</string>
+    <string name="usia_anak">Childs age (0-5 years)</string>
+    <string name="satuan_tinggi">cm</string>
+    <string name="satuan_waktu">year</string>
+    <string name="lk">Boy</string>
+    <string name="pr">Girl</string>
+    <string name="hitung">Count</string>
+    <string name="reset">Reset</string>
+    <string name="pendek">Short</string>
+    <string name="tinggi">Tall</string>
+    <string name="normal">Normal</string>
+    <string name="input_invalid">Invalid input!</string>
+    <string name="intro_hasil">The child is categorized as:</string>
+    <string name="bagikan">Share</string>
+    <string name="bagikan_template">Childs data\nHeight: %1$s cm\nAge: %2$s years old\nGender: %3$s\n---------------\nThe child is categorized as %4$s</string>
+    <string name="tentang_aplikasi">About application</string>
+    <string name="kembali">Back</string>
+    <string name="logo">Posyandu logo</string>
+    <string name="copyright">PosyanduCare is an Android-based application aimed at assisting health services in Posyandu. The feature of this application is the calculation of childrens height.\n\nThis application is created to fulfill the assessment 1 task of the Mobile Programming course.\n\nCopyright @ 2024 Ihsan Muhammad Iqbal\nAll rights reserved.</string>
+</resources>

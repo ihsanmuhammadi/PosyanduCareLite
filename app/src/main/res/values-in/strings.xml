@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PosyanduCare</string>
+    <string name="intro">Mari menghitung tinggi badan anak kita untuk mengukur apakah tinggi badannya tinggi, normal atau pendek (stunting)! Hasil perhitungan mengacu pada standar yang sudah dibuat oleh World Health Organization (WHO).</string>
+    <string name="tb_anak">Tinggi badan anak</string>
+    <string name="usia_anak">Usia anak (0-5 tahun)</string>
+    <string name="satuan_tinggi">cm</string>
+    <string name="satuan_waktu">thn</string>
+    <string name="lk">Laki-laki</string>
+    <string name="pr">Perempuan</string>
+    <string name="hitung">Hitung</string>
+    <string name="reset">Reset</string>
+    <string name="pendek">Pendek</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="normal">Normal</string>
+    <string name="input_invalid">Input tidak valid!</string>
+    <string name="intro_hasil">Anak bapak/ibu masuk ke kategori:</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">Data anak\nTinggi badan: %1$s cm\nUsia: %2$s tahun\nJenis Kelamin: %3$s\n---------------\nAnak bapak/ibu termasuk ke kategori %4$s</string>
+    <string name="tentang_aplikasi">Tentang aplikasi</string>
+    <string name="kembali">Kembali</string>
+    <string name="logo">Logo Posyandu</string>
+    <string name="copyright">PosyanduCare adalah aplikasi berbasis Android yang bertujuan untuk membantu pelayanan kesehatan di Posyandu. Fitur aplikasi ini adalah penghitungan tinggi badan anak.\n\nAplikasi ini dibuat untuk memenuhi tugas assesment 1 mata kuliah Pemrograman Untuk Perangkat Bergerak.\n\nHak cipta @ 2024 Ihsan Muhammad Iqbal\nHak cipta dilindungi.</string>
+</resources>
